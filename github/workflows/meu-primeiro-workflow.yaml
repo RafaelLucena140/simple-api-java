@@ -6,7 +6,6 @@ jobs:
     steps:
       - name: Imprimir mensagem
         run: echo "Olá, Mundo"
-
   job2-goodbye:
     runs-on: windows-latest
     steps:
